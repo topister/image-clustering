@@ -61,6 +61,8 @@
 # # Add other components or features as needed
 # # You can customize the layout and appearance based on your requirements
 
+pip install keras
+pip install numpy pandas matplotlib
 
 import streamlit as st
 import os
