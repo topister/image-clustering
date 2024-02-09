@@ -202,7 +202,6 @@ sqlparse==0.3.1
 ssh-import-id==5.11
 stack-data==0.6.3
 streamlit==1.21.0
-systemd-python==234
 tensorboard==2.15.1
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
