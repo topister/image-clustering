@@ -238,5 +238,4 @@ widgetsnbextension==4.0.9
 wrapt==1.14.1
 xdg==5
 xgboost==1.7.5
-xkit==0.0.0
 zipp==1.0.0
