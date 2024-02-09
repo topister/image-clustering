@@ -1,4 +1,5 @@
 libcairo2-dev
 libgirepository1.0-dev
+libcups2-dev
 pkg-config
 python3-dev
