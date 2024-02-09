@@ -100,7 +100,7 @@ def extract_features(file, model):
     return features
 
 # Load flower images
-file_path = r"/home/topister/Desktop/ML/Data mining/Clustering/newImages/flower_images/flower_images/"
+file_path = r"./flower_images/flower_images/"
 
 flowers = [file for file in os.listdir(file_path) if file.endswith('.png')]
 
